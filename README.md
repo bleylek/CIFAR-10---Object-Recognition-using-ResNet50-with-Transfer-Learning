@@ -18,7 +18,7 @@ The labels are processed to make them suitable for the classification task.
 
 ## Image Processing
 
-Images are processed through resizing, normalization, and augmentation to enhance the model's ability to generalize. The processing steps include:
+Images are processed through resizing and normalization to enhance the model's ability to generalize. The processing steps include:
 
 - Resizing: Images are resized to match the input size expected by the ResNet50 model.
 - Normalization: Pixel values are scaled to a range suitable for the model.
