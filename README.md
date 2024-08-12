@@ -3,15 +3,15 @@
 This repository contains a notebook for training a Convolutional Neural Network (CNN) to recognize objects in the CIFAR-10 dataset using the ResNet50 architecture with transfer learning.
 
 
-# Introduction
+## Introduction
 
 This project aims to classify images from the CIFAR-10 dataset into one of ten categories using deep learning techniques. The model leverages transfer learning by utilizing the ResNet50 architecture pre-trained on ImageNet, fine-tuning it for the CIFAR-10 classification task.
 
-# Dataset
+## Dataset
 
 The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The dataset can be downloaded using the Kaggle API: kaggle competitions download -c cifar-10
 
-# Data Preprocessing
+## Data Preprocessing
 ## Labels Processing
 
 The labels are processed to make them suitable for the classification task, possibly including one-hot encoding or integer encoding.
