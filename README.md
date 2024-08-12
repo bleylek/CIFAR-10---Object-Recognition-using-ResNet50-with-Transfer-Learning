@@ -14,7 +14,7 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different class
 ## Data Preprocessing
 ## Labels Processing
 
-The labels are processed to make them suitable for the classification task, possibly including one-hot encoding or integer encoding.
+The labels are processed to make them suitable for the classification task.
 
 ## Image Processing
 
